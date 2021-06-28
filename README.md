@@ -1,46 +1,39 @@
-# Getting Started with Create React App
+# Let me ask!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tecnologies used
+This project was created using `React`, `Typescript`, `Firebase` and `Sass`.
 
-## Available Scripts
+## About the Project
+Letmeask is ideal for content creators looking for ways to interact with their audience throught questions and answers 
+in a organized and democratic way.
 
-In the project directory, you can run:
+The project was developed during the Next Level Week Togheter event in June 2021.
 
-### `yarn start`
+## Design Previews
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### The login screen
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![Login-Screen](https://user-images.githubusercontent.com/78330601/123564047-376ab500-d78e-11eb-94a5-9a79ad54924c.PNG)
 
-### `yarn test`
+### The empty room
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Empty-Room](https://user-images.githubusercontent.com/78330601/123564059-4487a400-d78e-11eb-802f-0e977837460e.PNG)
 
-### `yarn build`
+### User's room with questions
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Questions](https://user-images.githubusercontent.com/78330601/123564058-4487a400-d78e-11eb-9010-7231897c6967.PNG)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Administrator's room with questions (answered, highlighted, normal)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Administrator Room](https://user-images.githubusercontent.com/78330601/123564057-43ef0d80-d78e-11eb-8cf3-e9cf58978a0a.PNG)
 
-### `yarn eject`
+## Deployed app
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+You can find the deployed version of the app [here](https://letmeask-b1be5.web.app)!
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Some concepts used
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Single Page Application
+- React concepts (Components, States, Props, Contexts, Event Listeners, Hooks)
+- Authentication (Using Firebase)
+- Routing (React Router Dom)
