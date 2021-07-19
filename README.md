@@ -7,6 +7,8 @@ This project was created using `React`, `Typescript`, `Firebase` and `Sass`.
 Letmeask is ideal for content creators looking for ways to interact with their audience throught questions and answers 
 in a organized and democratic way.
 
+To get your own copy of the project you can clone it and run the command `yarn start` in the terminal.
+
 The project was developed during the Next Level Week Togheter event in June 2021.
 
 ## Design Previews
